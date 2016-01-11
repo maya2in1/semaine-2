@@ -1,2 +1,3 @@
 # semaine-2
-les exercises de la semaine 2 de Simplon
+<a href="https://www.codecademy.com/users/maya2in1/achievements">mes badges</a>
+

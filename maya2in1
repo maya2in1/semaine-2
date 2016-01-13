@@ -1,0 +1,28 @@
+<!Doctype HTML>
+<html>
+  <head>
+    <title>exercice semaine 2: CV</title>
+  </head>
+  <body>
+    <header>Daniele de Lutzel: consultant de carrière</header>
+    <main>
+      <ul>
+        <li>naissance 1960 à Cologne, Allemange </li>
+        <li>1987 Master ecomomie et gestion, Ruhr Universität Bochum, Allemagne </li>
+        <li>1989- 1991 Consultant chez Solving International,specialisée marketing </li>
+        <li>1992-1994 formateur economie et gestion, Deutsche Angestellten Akademie, Düsseldorf </li>
+        <li>1997-20010 bénévole chez Initiatives et Changement: gestion de conférence Caux Initiatives for Business, gestion de mentorat interne, coaching</li>
+        <li>2005 formation Coaching, International Mozaik, Paris</li>
+        <li>2006 certification MBTI niveau I</li>
+        <li>2006-2009 conseil de carrière, Acore, Asnières</li>
+        <li>2013 Master en Ethnologie, Sorbonne Descartes, Paris</li>
+      </ul>
+    </main>
+    <footer>
+      83, rue de Paris
+      92190 Meudon
+      mobile: 0613831327
+    </footer>
+  </body>
+</html>
+  
